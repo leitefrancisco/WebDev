@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+
+}
+td,th{
+
+    text-align: center;
+
+}
+table{
+    table-layout: auto;
+    width: 100%;
+}
+
+form{
+    text-align-last: center;
+
+}
+select{
+    text-align: left;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+
